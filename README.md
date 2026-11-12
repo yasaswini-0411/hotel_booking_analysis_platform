@@ -27,7 +27,7 @@ It processes hotel booking data, performs data cleaning and transformation, and 
 
 ### Gold Pipeline Architecture
 
-![Gold Pipeline Architecture](screenshots/gold_pipeline_architecture.png)
+<img width="739" height="377" alt="gold_pipeline_architecture" src="https://github.com/user-attachments/assets/abed46f5-5f56-47a2-917c-dc0fa5952468" />
 
 ## 📊 Dashboard
 
@@ -37,19 +37,19 @@ The project includes three interactive dashboard pages.
 
 Displays total bookings, net revenue, room nights, cancellations, and monthly booking trends.
 
-![Executive Overview](screenshots/dashboard_overview.png)
+<img width="744" height="562" alt="image" src="https://github.com/user-attachments/assets/ac62343d-e7bb-494f-9ffc-839066b8699b" />
 
 ### 2. Hotels, Rooms & Channels
 
 Analyzes hotel revenue, room type performance, booking channels, cancellation rates, and guest ratings.
 
-![Hotels, Rooms & Channels](screenshots/dashboard_hotels_rooms_channels.png)
+<img width="622" height="632" alt="image" src="https://github.com/user-attachments/assets/4b603ab4-61bc-4baf-b22a-fefa654bfe99" />
 
 ### 3. Data Quality
 
 Tracks clean records, rejected records, duplicates, and data reconciliation.
 
-![Data Quality](screenshots/dashboard_data_quality.png)
+<img width="973" height="472" alt="image" src="https://github.com/user-attachments/assets/b3f5354d-6ab7-4a23-b4a1-d4ae6ddec7cd" />
 
 ## 📁 Project Files
 
